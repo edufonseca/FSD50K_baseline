@@ -16,3 +16,16 @@ In the meantime, make sure to take a look at the resources we just released:
 - the FSD50K's companion site: <a href="https://annotator.freesound.org/fsd/release/FSD50K/" target="_blank">https://annotator.freesound.org/fsd/release/FSD50K/</a>
 
 Stay tuned for the code!
+
+
+
+### Reference
+```
+@article{fonseca2020fsd50k,
+  title={{FSD50K}: an Open Dataset of Human-Labeled Sound Events},
+  author={Fonseca, Eduardo and Favory, Xavier and Pons, Jordi and Font, Frederic and Serra, Xavier},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2020}
+}
+
+```
