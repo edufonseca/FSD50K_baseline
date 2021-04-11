@@ -1,6 +1,6 @@
 # FSD50K_baseline
 
-This repository contains the code for the baseline experiments included in the following <a href="https://arxiv.org/pdf/2010.00475.pdf" target="_blank">paper</a>. If you use this code or part of it, please cite:
+This repository will contain the code for the baseline experiments included in the following <a href="https://arxiv.org/pdf/2010.00475.pdf" target="_blank">paper</a>. If you use this code or part of it, please cite:
 
 >Eduardo Fonseca, Xavier Favory, Jordi Pons, Frederic Font, Xavier Serra, "FSD50K: an Open Dataset of Human-Labeled Sound Events", arXiv:2010.00475, 2020.
 
