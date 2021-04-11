@@ -12,7 +12,7 @@ In the meantime, make sure to take a look at the resources we just released:
 
 - the FSD50K dataset can be downloaded from Zenodo: <a href="http://doi.org/10.5281/zenodo.4060432" target="_blank">http://doi.org/10.5281/zenodo.4060432</a>
 - our <a href="https://arxiv.org/pdf/2010.00475.pdf" target="_blank">journal preprint</a> describes in depth the creation of the dataset, as well as its characterization and baseline experiments
-- the FSD50K's companion site: <a href="https://annotator.freesound.org/fsd/release/FSD50K/" target="_blank">https://annotator.freesound.org/fsd/release/FSD50K/</a>
+- the FSD50K's companion site, where you can inspect the audio content of the dataset per category: <a href="https://annotator.freesound.org/fsd/release/FSD50K/" target="_blank">https://annotator.freesound.org/fsd/release/FSD50K/</a>
 
 
 Stay tuned for the code! Also, we will publish a blog post soon!
