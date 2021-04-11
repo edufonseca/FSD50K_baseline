@@ -4,9 +4,9 @@ This repository contains the code for the baseline experiments included in the f
 
 >Eduardo Fonseca, Xavier Favory, Jordi Pons, Frederic Font, Xavier Serra, "FSD50K: an Open Dataset of Human-Labeled Sound Events", arXiv:2010.00475, 2020.
 
-This repository contains a framework that comprises all the basic stages in supervised sound event classifcation: feature extraction, training, inference and evaluation. After loading the FSD50K dataset, log-mel energies are computed and several baselines can be trained and evaluated. Please check our paper for more details. The system is implemented in TensorFlow.
+This repository will contain a framework that comprises all the basic stages in supervised sound event classifcation: feature extraction, training, inference and evaluation. After loading the FSD50K dataset, log-mel energies are computed and several baselines can be trained and evaluated. Please check our paper for more details. The system is implemented in TensorFlow.
 
-We're currently cleaning the code, which will be made available in the next few weeks. We will announce when it is available via <a href="https://twitter.com/edfonseca_" target="_blank">twitter</a> and via the <a href="https://groups.google.com/g/freesound-annotator" target="_blank">freesound-annotator Google Group</a>.
+We're currently cleaning the code, which will be made available soon. We will announce when it is available via <a href="https://twitter.com/edfonseca_" target="_blank">twitter</a> and via the <a href="https://groups.google.com/g/freesound-annotator" target="_blank">freesound-annotator Google Group</a>.
 
 In the meantime, make sure to take a look at the resources we just released:
 
