@@ -6,7 +6,7 @@ This repository will contain the code for the baseline experiments included in t
 
 This repository will contain a framework that comprises all the basic stages in supervised sound event classifcation: feature extraction, training, inference and evaluation. After loading the FSD50K dataset, log-mel energies are computed and several baselines can be trained and evaluated. Please check our paper for more details. The system is implemented in TensorFlow.
 
-We're currently cleaning the code, which will be made available soon. We will announce when it is available via <a href="https://twitter.com/edfonseca_" target="_blank">twitter</a> and via the <a href="https://groups.google.com/g/freesound-annotator" target="_blank">freesound-annotator Google Group</a>.
+Code will be made available in the final version of the paper, hopefully before the end of 2021. We will announce when it is available via <a href="https://twitter.com/edfonseca_" target="_blank">twitter</a> and via the <a href="https://groups.google.com/g/freesound-annotator" target="_blank">freesound-annotator Google Group</a>.
 
 In the meantime, make sure to take a look at the resources we just released:
 
@@ -15,7 +15,7 @@ In the meantime, make sure to take a look at the resources we just released:
 - the FSD50K's companion site, where you can inspect the audio content of the dataset per category: <a href="https://annotator.freesound.org/fsd/release/FSD50K/" target="_blank">https://annotator.freesound.org/fsd/release/FSD50K/</a>
 
 
-Stay tuned for the code! Also, we will publish a blog post soon!
+Stay tuned!
 
 
 ### Reference
